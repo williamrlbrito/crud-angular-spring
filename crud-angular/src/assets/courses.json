@@ -1,7 +1,7 @@
 [
-  { "id": "1", "name": "Angular", "category": "Frontend" },
-  { "id": "2", "name": "React", "category": "Frontend" },
-  { "id": "3", "name": "Vue", "category": "Frontend" },
-  { "id": "4", "name": "Spring Boot", "category": "Backend" },
-  { "id": "5", "name": "Express", "category": "Backend" }
+  { "id": "1", "name": "Angular", "category": "front-end" },
+  { "id": "2", "name": "React", "category": "front-end" },
+  { "id": "3", "name": "Vue", "category": "front-end" },
+  { "id": "4", "name": "Spring Boot", "category": "back-end" },
+  { "id": "5", "name": "Express", "category": "back-end" }
 ]
